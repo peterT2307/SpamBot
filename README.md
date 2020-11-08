@@ -14,7 +14,7 @@ To use the "spamchat" you have to:<br><br>
 Default message: "Hello"<br>
 Default delay: 1 second
 
-<h2>Tip</h2>
+<h2>Tips</h2>
 you can press the button "F7" to start spamming without being in the <br>
 program and "F8"to stop spamming without being in the program.
 
