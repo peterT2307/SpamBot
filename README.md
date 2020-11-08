@@ -23,4 +23,6 @@ These halps and tips are made for the latest vesrion of the program,<br>
 some of them will be working with oldest versions and some of them will not!
 <br><br>
 
+<h3>Copyright</h3>
+
 © Peter.T SpamBot
