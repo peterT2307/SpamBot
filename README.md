@@ -21,3 +21,5 @@ program and "F8"to stop spamming without being in the program.
 <h2>Notice</h2>
 These halps and tips are made for the latest vesrion of the program,<br>
 some of them will be working with oldest versions and some of them will not!
+
+© Peter.T SpamBot
