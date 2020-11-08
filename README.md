@@ -1,5 +1,7 @@
 # SpamBot
 
+
+<h2>Help</h2>
 To use the "spamchat" you have to:
 
 1) Enter text to spam in the yellow text area
@@ -7,14 +9,15 @@ To use the "spamchat" you have to:
 3) Press "spam" button to start spamming
 4) Press "stop" button to stop spamming
 
-# Default Settings
+<h2>Default Settings</h2>
 
-Default message: "Hello"
+Default message: "Hello"<br>
 Default delay: 1 second
 
-#Tip
-you can press the button "F7" to start spamming without being in the 
+<h2>Tip</h2>
+you can press the button "F7" to start spamming without being in the <br>
 program and "F8"to stop spamming without being in the program.
 
-# Notice:
-These halps and tips are made for the latest vesrion of the program, some of them will be working with oldest versions and some of them will not!
+<h2>Notice</h2>
+These halps and tips are made for the latest vesrion of the program,<br>
+some of them will be working with oldest versions and some of them will not!
