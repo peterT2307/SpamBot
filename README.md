@@ -2,7 +2,7 @@
 
 
 <h2>Help</h2>
-To use the "spamchat" you have to:<br>
+To use the "spamchat" you have to:<br><br><br>
 
 1) Enter text to spam in the yellow text area
 2) Enter delay of the repeated message 
